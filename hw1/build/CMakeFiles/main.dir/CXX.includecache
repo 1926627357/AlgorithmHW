@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haiqwa/Documents/learning/master-1/algorithm/hw1/src/hw1.cpp
+iostream
+-
+random
+-
+chrono
+-
+cmath
+-
+
