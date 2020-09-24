@@ -1,1 +1,0 @@
-/usr/local/bin/c++       CMakeFiles//home/haiqwa/Documents/learning/master-1/algorithm/hw1/bin/main.dir/src/hw1.cpp.o  -o home/haiqwa/Documents/learning/master-1/algorithm/hw1/bin/main -rdynamic 

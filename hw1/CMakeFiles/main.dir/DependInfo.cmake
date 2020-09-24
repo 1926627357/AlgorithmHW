@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/haiqwa/Documents/learning/master-1/algorithm/hw1/src/hw1.cpp" "/home/haiqwa/Documents/learning/master-1/algorithm/hw1/build/CMakeFiles/home/haiqwa/Documents/learning/master-1/algorithm/hw1/bin/main.dir/src/hw1.cpp.o"
+  "/home/haiqwa/Documents/learning/master-1/algorithm/hw1/src/hw1.cpp" "/home/haiqwa/Documents/learning/master-1/algorithm/hw1/CMakeFiles/main.dir/src/hw1.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
