@@ -1,1 +1,0 @@
-/home/haiqwa/Documents/learning/master-1/algorithm/hw1/CMakeFiles/main.dir
